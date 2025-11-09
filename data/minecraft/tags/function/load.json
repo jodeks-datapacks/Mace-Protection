@@ -1,0 +1,6 @@
+{
+  "values": [
+    "maceprotection:app/setup",
+    "maceprotection:app/load_message"
+  ]
+}
