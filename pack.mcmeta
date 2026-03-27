@@ -1,0 +1,58 @@
+{
+  "pack": {
+    "min_format": [80, 0],
+    "max_format": [999, 0],
+
+    "pack_format": 80,
+    "supported_formats": [80, 999],
+    "description": [
+      {
+        "text": "\"Mace Protection Enchantment\" (mace_protection)"
+      },
+      "\n",
+      {
+        "translate": "mace_protection.description",
+        "fallback": "Armor enchantments to reduce damage from Mace attacks",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.0.1",
+        "color": "#55ff55"
+      },
+      {
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.21.6+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  }
+}
